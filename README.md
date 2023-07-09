@@ -7,7 +7,7 @@
 ██║░░░░░██║░░╚██╔╝░░███████╗  ╚█████╔╝╚█████╔╝██████╔╝███████╗
 ╚═╝░░░░░╚═╝░░░╚═╝░░░╚══════╝  ░╚════╝░░╚════╝░╚═════╝░╚══════╝
 
-Discord: https://discord.gg/xKtv9wZgwd
+Discord: https://discord.gg/63hyffz3m6
 
 Możliwość ustawienia własnego grade
 
